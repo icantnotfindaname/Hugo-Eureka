@@ -2,29 +2,13 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Leetcode 的記錄
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: 點這裏去看看
+      url: https://app.heptabase.com/w/45db189c0d1572d1948d9e7f1a0458ac2453d2f8aa56ea0eaaacedfeec1197e1
+    dates: "2000 - Present"
+    location:
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
-
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
-    organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
-    writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
 
 weight: 3
 widget:
@@ -35,7 +19,7 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position: left
+    position: 
     # Options: sm, md, lg and xl. Default is md.
     scale:
 

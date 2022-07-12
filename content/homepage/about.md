@@ -1,22 +1,22 @@
 ---
-title: Example Author
+title: William Wild
 draft: false
-role: Example Role
+role: 三流作者
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: 媽媽我愛上了一個姑娘可是她在別人的牀上呻吟
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: No Home No Way Home No 
+  url: https://zh.wikipedia.org/zh-hk/%E4%BF%A1%E6%81%AF%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:louisborges.h@gmail.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://t.me/thethirdauthor
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/icantnotfindaname
 
 weight: 1
 widget:
@@ -45,19 +45,9 @@ widget:
 
 ## Self Introduction
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
+如何定義自己？在此問題完全不成立。增加自身複雜性，使之不能被輕易定義，這是我所有行爲的動因。
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
-
-## Details  
-
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
-
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+1. 要謙虛，同時在屬於自己的領域猖狂不可一世。
+2. 要符號自己，同時反符號。
+3. 利他主義、網絡無政府主義、僞馬克思主義。
+4. 不寫詩的詩人、偉大的讀者。
