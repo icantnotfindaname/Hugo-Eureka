@@ -10,13 +10,21 @@ experiences:
     location:
     writeup: 
 
+  - title: 我的電子藏書
+    organization:
+      name: 👉<u>點這裏去看看</u>
+      url: https://1drv.ms/u/s!AssgHL7nh3t7itRy4UJKoNzMdH18uA?e=Suuynm
+    dates: "2020 - Present"
+    location:
+    writeup: 
+
   - title: 尚未整理的雜物
     organization:
       name: 👉<u>點這裏去看看</u>
       url: https://bbll.notion.site/d534fccfb3524ffd843b5607fb358a0a?v=48815bd18fdb4cc69a9b4503e043c3fd
     dates: "2022 - Present"
     location:
-    writeup: >
+    writeup: 
 
 weight: 3
 widget:
