@@ -2,11 +2,19 @@
 title: Experience
 draft: false
 experiences:
-  - title: Leetcode 的記錄
+  - title: Leetcode 的刷題記錄
     organization:
-      name: 點這裏去看看
+      name: 👉<u>點這裏去看看</u>
       url: https://app.heptabase.com/w/45db189c0d1572d1948d9e7f1a0458ac2453d2f8aa56ea0eaaacedfeec1197e1
-    dates: "2000 - Present"
+    dates: "2022 - Present"
+    location:
+    writeup: 
+
+  - title: 尚未整理的雜物
+    organization:
+      name: 👉<u>點這裏去看看</u>
+      url: https://bbll.notion.site/d534fccfb3524ffd843b5607fb358a0a?v=48815bd18fdb4cc69a9b4503e043c3fd
+    dates: "2022 - Present"
     location:
     writeup: >
 
