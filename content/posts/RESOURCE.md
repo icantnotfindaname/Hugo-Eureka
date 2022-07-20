@@ -1,6 +1,6 @@
 ---
 title: RESOURCE
-description:
+description: 這裏存放平時用到的一些優秀資源，隨時更新。
 toc: true
 authors: []
 tags: []
