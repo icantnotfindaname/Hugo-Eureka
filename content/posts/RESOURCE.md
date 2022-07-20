@@ -13,31 +13,6 @@ featuredImage:
 draft: false
 ---
 
-<!-- vscode-markdown-toc -->
----
-目錄：
-
-1. [COMPUTER](#COMPUTER)
-2. [ENG](#ENG)
-3. [Poker](#Poker)
-4. [NEWS](#NEWS)
-5. [READ](#READ)
-6. [MOVIE & MUSIC](#MOVIEMUSIC)
-7. [DESIGN](#DESIGN)
-8. [VPS](#VPS)
-9. [DRIVE](#DRIVE)
-10. [VIRTUAL CARD（虛擬卡平臺）](#VIRTUALCARD)
-11. [ARTICLE](#ARTICLE)
-12. [BOOK](#BOOK)
-13. [一些值得期待的產品](#)
----
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># RESOURCE
-
 ##  1. <a name='COMPUTER'></a>COMPUTER
 
 1. [代码随想录](https://programmercarl.com/)
